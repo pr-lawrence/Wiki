@@ -16,7 +16,10 @@
 
 - Akka's actor
 - become/unbecome
-- 
+- Let it crash
+- routing message
+- clustering
+- persistence
 
 5. Conclusion
 
