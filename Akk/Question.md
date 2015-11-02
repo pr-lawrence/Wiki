@@ -3,3 +3,4 @@
 - http-protocal을 위한 구성은 어떻게 하셨는지?
   - play-akka의 관계
 - 여러개의 서버에 구성할 때 어떻게 해야 하는가?
+  - distributed ...
