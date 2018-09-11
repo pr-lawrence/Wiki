@@ -1,9 +1,9 @@
 # Reading List
 
-러닝 스파크 : http://www.yes24.com/24/goods/21667835?scode=032&OzSrank=1
+* [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
+* [SBT in action](https://www.manning.com/books/sbt-in-action)
+* [Functional Reactive Programming](https://www.manning.com/books/functional-reactive-programming)
 
-Reactive Design Patterns : https://www.manning.com/books/reactive-design-patterns
+## Done
 
-SBT in action : https://www.manning.com/books/sbt-in-action
-
-Functional Reactive Programming : https://www.manning.com/books/functional-reactive-programming
+* [러닝 스파크](http://www.yes24.com/24/goods/21667835?scode=032&OzSrank=1)
